@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.erdinc.chptr15.MainActivity">
+    <item
+        android:id="@+id/async1"
+        android:orderInCategory="100"
+        android:title="Async1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/async2"
+        android:orderInCategory="100"
+        android:title="Async2"
+        app:showAsAction="never" />
+</menu>
